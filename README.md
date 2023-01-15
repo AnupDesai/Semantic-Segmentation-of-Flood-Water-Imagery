@@ -1,6 +1,6 @@
-## Semantic-Segmentation-of-Flood-Water-Imagery
+# Semantic-Segmentation-of-Flood-Water-Imagery
 
-# Aim:
+Aim:
 
 • The aim of this project is to design a Machine Learning model using PyTorch and PyTorch Lightning to detect the presence of flood water from the synthetic aperture radar (Sentinel-1) images.
 
@@ -13,7 +13,7 @@
 <img width="420" alt="seg_3" src="https://user-images.githubusercontent.com/68967101/212528372-cec89f29-6f46-4e29-993a-a921ee678613.png">
 
 
-# Model:
+Model:
 
 • Implemented ResUnet++, a new state-of-the-art architecture for image segmentation with an “IoU” of 62.55%. The ResUnet++Model.py provides the entire model that is used to fit the dataset.
 
