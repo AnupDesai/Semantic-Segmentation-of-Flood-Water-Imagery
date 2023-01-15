@@ -13,10 +13,16 @@ Aim:
 <img width="420" alt="seg_3" src="https://user-images.githubusercontent.com/68967101/212528372-cec89f29-6f46-4e29-993a-a921ee678613.png">
 
 
+Data:
+The dataset includes 542 chips from flood events all across the world, each with two polarization bands. To get a better intuition about the dataset, it is better to visualize the number of images per location 
+
+<img width="534" alt="seg_4" src="https://user-images.githubusercontent.com/68967101/212529009-09da659d-4349-495b-90a0-ba77974ad6b9.png">
+
+
 Model:
 
 • Implemented ResUnet++, a new state-of-the-art architecture for image segmentation with an “IoU” of 62.55%. The ResUnet++Model.py provides the entire model that is used to fit the dataset.
 
-• The hyperparameters are tuned to fit the dataset to produce the optimum results and using albumentation library is used to augment the data to avoid ovefitting.
+• The hyperparameters are tuned to fit the dataset to produce the optimum results and albumentation library is used to augment the data to avoid ovefitting.
 
 
