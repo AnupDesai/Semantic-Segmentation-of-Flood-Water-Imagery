@@ -1,6 +1,8 @@
 ## Semantic-Segmentation-of-Flood-Water-Imagery
 
-#• The aim of this project is to design a Machine Learning model to detect the presence of flood water from the synthetic aperture radar (Sentinel-1) images.
+# Aim:
+
+• The aim of this project is to design a Machine Learning model using PyTorch and PyTorch Lightning to detect the presence of flood water from the synthetic aperture radar (Sentinel-1) images.
 
 <img width="423" alt="seg_1" src="https://user-images.githubusercontent.com/68967101/212528357-885291c8-ae2f-4367-8137-375e42f9306f.png">
 
